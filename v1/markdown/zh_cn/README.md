@@ -58,7 +58,7 @@ AOSA电子书版本中有免费的HTML版，也有收费的PDF和ePub等版本�
  - 第12章 待认领
  - 第13章 The NoSQL Ecosystem 潇洒哥已认领
  - 第14章 待认领
- - 第15章 待认领
+ - 第15章 Riak and Erlang/OTP Jingang已认领
  - 第16章 待认领
  - 第17章 待认领
  - 第18章 待认领
@@ -69,6 +69,12 @@ AOSA电子书版本中有免费的HTML版，也有收费的PDF和ePub等版本�
  - 第23章 待认领
  - 第24章 VTK 马苏宏已认领
  - 第25章 待认领
+
+## 参考
+
+### Markdown介绍
+ - http://markdown.tw/
+
 
 ## 联系
 
