@@ -36,14 +36,15 @@ AOSA电子书版本中有免费的HTML版，也有收费的PDF和ePub等版本�
 
 ## 里程碑
 
- - 2015/1/27 aosabook主分支接受hongbin's Pull Request(Introduction)
+ - 2015/01/27 aosabook主分支接受hongbin's Pull Request(Introduction)
+ - 2015/03/02 aosabook主分支接受hongbin's Pull Request(1st Chapter)
 
 ## 翻译进展
 
 ### 第一卷
  - 目录 hongbin 已认领
  - 介绍 已合并至主干
- - 第1章 已提交Pull Request到主干
+ - 第1章 已合并至主干
  - 第2章 hongbin 已认领
  - 第3章 The Bourne-Again Shell fangmeng 已认领
  - 第4章 Berkeley DB 王慧 已认领
